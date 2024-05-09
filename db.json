@@ -64,5 +64,13 @@
             "date": "2024-05-6",
             "partySize": 2
         }
+    ],
+    "footer": [
+        {
+            "contact": "dankuy@.gmail.com",
+            "about": "Our hotel offers the best services",
+            "location": "..."
+        }
     ]
+   
 }
